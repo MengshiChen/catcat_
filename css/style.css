@@ -1,11 +1,11 @@
 @import url('https://fonts.googleapis.com/css?family=Dancing+Script|Indie+Flower&display=swap');
 
 body{
-  background-image: url("images/mm.jpg");
+  background-image: url("/images/mm.jpg");
 }
 
 .top{
-  background-image: url("images/mm.jpg");
+  background-image: url("/images/mm.jpg");
   margin-top: 0px;
   border-top: 0px;
   background-color: #515557;
@@ -16,17 +16,17 @@ a{
   color:#FFEC40;
 }
 .portfolio :hover{
-  background-image: url("images/city.jpg");
+  background-image: url("/images/city.jpg");
   background-color: #cccccc;
 }
 
 .statement :hover{
-  background-image: url("images/city2.jpg");
+  background-image: url("/images/city2.jpg");
   background-color: #cccccc;
 }
 
 .contact :hover{
-  background-image: url("images/city3.jpg");
+  background-image: url("/images/city3.jpg");
   background-color: #cccccc;
 }
 
