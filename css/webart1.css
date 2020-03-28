@@ -1,0 +1,135 @@
+html,body{
+  width: 100%;
+  height: 100%;
+}
+body{
+  background-image: RADIAL-gradient(circle at 20% 40%, #99cccc 20%, #C2D3FD 40%, #F6DEC9 60%,#C9EEF6 80%);
+  background-size: cover;
+}
+.cube{
+  max-width: 100%;
+}
+.box1{
+  width: 200px;
+  height: 200px;
+  background-color: #E66B4C;
+  position: relative;
+  -webkit-animation-name: cube1;
+  -webkit-animation-duration: 4s;
+  -webkit-animation-iteration-count: infinite;
+  animation-name: cube1;
+  animation-duration: 4s;
+  animation-iteration-count: infinite;
+}
+@-webkit-keyframes cube1 {
+  0%   {background-color:#E66B4C; left:150px; top:150px;}
+  25%  {background-color:#FFBF00; left:300px; top:50px;}
+  50%  {background-color:#3239E4; left:300px; top:300px;}
+  75%  {background-color:#95CD96; left:50px; top:300px;}
+  100% {background-color:#E66B4C; left:150px; top:150px;}
+}
+
+@keyframes cube1 {
+  0%   {background-color:#E66B4C; left:150px; top:150px;}
+  25%  {background-color:#FFBF00; left:300px; top:50px;}
+  50%  {background-color:#3239E4; left:300px; top:300px;}
+  75%  {background-color:#95CD96; left:50px; top:300px;}
+  100% {background-color:#E66B4C; left:150px; top:150px;}
+}
+.box2{
+  width: 100px;
+  height: 100px;
+  background-color: #E66B4C;
+  position: relative;
+  -webkit-animation-name: cube2;
+  -webkit-animation-duration: 2s;
+  -webkit-animation-iteration-count: infinite;
+  animation-name: cube2;
+  animation-duration: 2s;
+  animation-iteration-count: infinite;
+}
+@-webkit-keyframes cube2 {
+  0%   {background-color:#E66B4C; left:50px; top:50px;}
+  25%  {background-color:#FFBF00; left:400px; top:35px;}
+  50%  {background-color:#3239E4; left:400px; top:350px;}
+  75%  {background-color:#95CD96; left:100px; top:350px;}
+  100% {background-color:#E66B4C; left:50px; top:50px;}
+}
+
+@keyframes cube2 {
+  0%   {background-color:#E66B4C; left:50px; top:50px;}
+  25%  {background-color:#FFBF00; left:400px; top:35px;}
+  50%  {background-color:#3239E4; left:400px; top:350px;}
+  75%  {background-color:#95CD96; left:100px; top:350px;}
+  100% {background-color:#E66B4C; left:50px; top:50px;}
+}
+.box3{
+  width: 200px;
+  height: 200px;
+  background-color: #E66B4C;
+  position: relative;
+  -webkit-animation-name: cube3;
+  -webkit-animation-duration: 1s;
+  -webkit-animation-iteration-count: infinite;
+  animation-name: cube3;
+  animation-duration: 1s;
+  animation-iteration-count: infinite;
+}
+@-webkit-keyframes cube3 {
+  0%   {background-color:#E66B4C; left:300px; top:50px;}
+  25%  {background-color:#FFBF00; left:450px; top:50px;}
+  50%  {background-color:#3239E4; left:450px; top:100px;}
+  75%  {background-color:#95CD96; left:300px; top:200px;}
+  100% {background-color:#E66B4C; left:300px; top:50px;}
+}
+
+@keyframes cube3 {
+  0%   {background-color:#E66B4C; left:300px; top:50px;}
+  25%  {background-color:#FFBF00; left:450px; top:50px;}
+  50%  {background-color:#3239E4; left:450px; top:100px;}
+  75%  {background-color:#95CD96; left:300px; top:200px;}
+  100% {background-color:#E66B4C; left:300px; top:50px;}
+}
+.box4{
+  width: 100px;
+  height: 100px;
+  background-color: #E66B4C;
+  position: relative;
+  -webkit-animation-name: cube4;
+  -webkit-animation-duration: 1s;
+  -webkit-animation-iteration-count: infinite;
+  animation-name: cube4;
+  animation-duration:1s;
+  animation-iteration-count: infinite;
+}
+@-webkit-keyframes cube4 {
+  0%   {background-color:#E66B4C; left:150px; top:150px;}
+  25%  {background-color:#FFBF00; left:300px; top:50px;}
+  50%  {background-color:#3239E4; left:300px; top:300px;}
+  75%  {background-color:#95CD96; left:50px; top:300px;}
+  100% {background-color:#E66B4C; left:150px; top:150px;}
+}
+
+@keyframes cube4 {
+  0%   {background-color:#E66B4C; left:150px; top:150px;}
+  25%  {background-color:#FFBF00; left:300px; top:50px;}
+  50%  {background-color:#3239E4; left:300px; top:300px;}
+  75%  {background-color:#95CD96; left:50px; top:300px;}
+  100% {background-color:#E66B4C; left:150px; top:150px;}
+}
+
+button {
+  background-color: #1e90ff;
+  border: none;
+  color: #FFB8C6;
+  margin-left: 40%;
+  padding:14px 40px;;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 20px;
+  font-weight: bold;
+  border-radius: 12px;
+  box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+
+}

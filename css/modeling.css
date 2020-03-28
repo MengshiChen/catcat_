@@ -1,0 +1,77 @@
+@import url('https://fonts.googleapis.com/css?family=Dancing+Script|Indie+Flower&display=swap');
+
+body{
+  background-image: url('/images/glitch/tree4.jpg');
+}
+
+
+.description{
+  color: blue;
+  font-family: 'Indie Flower', cursive;
+  font-size: 20px;
+  font-weight: bold;
+
+}
+
+
+.image {
+  margin-top: 50px;
+}
+
+.scan, .texture,.video, .title{
+  margin-top:  80px;
+  margin-bottom: 80px;
+  padding-top: 20px;
+  padding-bottom:  50px;
+  background-image: url('/images/glitch/sunset2.jpg');
+
+  text-align: center;
+}
+
+
+h3{
+  text-align: center;
+  color: #FFEC40;
+  font-family: 'Indie Flower', cursive;
+  font-size: 24px;
+}
+h4{
+  text-align: center;
+  color: blue;
+  font-family: 'Indie Flower', cursive;
+
+}
+a{
+  text-decoration: none;
+  color:#FFEC40;
+}
+
+.button1 {
+  background-color:#F2B6C1;
+  border-radius: 12px;
+  color: #FFEF00;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 18px;
+  font-weight: bold;
+  font-family: 'Architects Daughter', cursive;
+}
+button:hover{
+  background-color: #FFEC40;
+  color:#9BDAF2;
+}
+.button2 {
+  background-color:#F2B6C1;
+  border-radius: 12px;
+  color: #FFEF00;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 18px;
+  font-weight: bold;
+  float: right;
+  font-family: 'Architects Daughter', cursive;
+}

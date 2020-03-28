@@ -1,0 +1,39 @@
+body{
+
+  background-image: url('/images/glitch/sunset2.jpg');
+}
+.sunset{
+  margin-top: 100px;
+  text-align: center;
+
+}
+p{
+  font-size: 25px;
+}
+
+.ins{
+  margin-top:50px;
+  text-align: center;
+  color:#1A24FF;
+}
+.button{
+  margin-left: 500px;
+  margin-top: 30px;
+}
+.button1 {
+  background-color:#F2B6C1;
+  border-radius: 12px;
+  color: #FFEF00;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 18px;
+  font-weight: bold;
+  font-family: 'Architects Daughter', cursive;
+  float:left;
+}
+button:hover{
+  background-color: #FFEC40;
+  color:#9BDAF2;
+}
