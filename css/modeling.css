@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css?family=Dancing+Script|Indie+Flower&display=swap');
 
 body{
-  background-image: url('/images/glitch/tree4.jpg');
+  background-image: url('../images/tree4.jpg');
 }
 
 
@@ -23,7 +23,7 @@ body{
   margin-bottom: 80px;
   padding-top: 20px;
   padding-bottom:  50px;
-  background-image: url('/images/glitch/sunset2.jpg');
+  background-image: url('../images/sunset2.jpg');
 
   text-align: center;
 }
