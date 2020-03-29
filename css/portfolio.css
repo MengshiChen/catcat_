@@ -7,39 +7,21 @@ background-color: #cccccc;
 
 /* glitch art*/
 
-.mountainglitch {
+.mountainglitch, .sunsetglitch, .treeglitch,.originalimage {
   margin-top:  80px;
   margin-bottom: 80px;
+  margin-left: 100px;
+  margin-right: 100px;
   padding-top: 20px;
   padding-bottom:  50px;
   background-color: #515557;
-}
-.sunsetglitch {
-  margin-top:  80px;
-  margin-bottom: 80px;
-  padding-top: 20px;
-  padding-bottom:  50px;
-  background-color: #515557;
-}
-.treeglitch {
-  margin-top:  80px;
-  margin-bottom: 80px;
-  padding-top: 20px;
-  padding-bottom:  50px;
-  background-color: #515557;
-}
-.originalimage {
-  margin-top:  80px;
-  margin-bottom: 80px;
-  padding-top: 20px;
-  padding-bottom:  50px;
-  background-color: #515557;
+  text-align: center;
 }
 .glitchartstatement {
 
   padding-left: 80px;
   padding-right: 80px;
-
+  text-align: center;
   background-color: #515557;
 
 }
@@ -57,7 +39,7 @@ background-color: #cccccc;
 
 h3{
   text-align: center;
-  color: #FFEC40;
+  color: #52C4FF;
   font-family: 'Indie Flower', cursive;
   font-size: 24px;
 }

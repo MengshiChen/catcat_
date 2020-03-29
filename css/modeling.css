@@ -6,7 +6,7 @@ body{
 
 
 .description{
-  color: blue;
+  color: #2222FF;
   font-family: 'Indie Flower', cursive;
   font-size: 20px;
   font-weight: bold;
@@ -35,9 +35,11 @@ h3{
   font-family: 'Indie Flower', cursive;
   font-size: 24px;
 }
-h4{
+p{
   text-align: center;
-  color: blue;
+  font-size: 20px;
+  color: #2222FF;
+  font-weight: bold;
   font-family: 'Indie Flower', cursive;
 
 }

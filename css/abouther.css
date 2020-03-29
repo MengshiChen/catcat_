@@ -1,10 +1,9 @@
-@import url('https://fonts.googleapis.com/css?family=Lobster|Ma+Shan+Zheng&display=swap');
-@import url('https://fonts.googleapis.com/css?family=Rancho&display=swap');
+@import url('https://fonts.googleapis.com/css?family=PT+Serif|Playfair+Display&display=swap');
 body{
-  background-color:  black;
+  background-image: url("../images/aboutherbc.png");
 }
 h1{
-  font-family: 'Lobster', cursive;
+  font-family: 'PT Serif', serif;
   font-size: 50px;
   text-align: center;
   color: #D95988;
@@ -13,16 +12,16 @@ h1{
   text-align: center;
 }
 .paragraph{
-  margin-left: 90px;
-  margin-right: 90px;
+  margin-left: 250px;
+  margin-right: 250px;
   margin-top: 50px;
   margin-bottom: 50px;
   text-align: center;
 }
 p{
   font-size: 25px;
- font-family: 'Rancho', cursive;
- color: #FFF777;
+  font-family: 'Playfair Display', serif;
+  color: #59C7FF;
 }
 
 .button1 {
