@@ -7,7 +7,7 @@ background-color: #cccccc;
 
 /* glitch art*/
 
-.mountainglitch, .sunsetglitch, .treeglitch,.originalimage {
+.mountainglitch, .sunsetglitch, .treeglitch,.originalimage, .codeart {
   margin-top:  80px;
   margin-bottom: 80px;
   margin-left: 100px;
@@ -29,11 +29,14 @@ background-color: #cccccc;
 
 
 
-.catalog {
+.catalog{
   background-image: url("../images/mm.jpg");
   background-color: #cccccc;
   margin-top: 0px;
   border-top: 0px;
+}
+h1:hover{
+  color:  #52C4FF;
 }
 
 h2{
