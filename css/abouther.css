@@ -17,11 +17,12 @@ h1{
   margin-top: 50px;
   margin-bottom: 50px;
   text-align: center;
+  background-color:#515557;
 }
 p{
   font-size: 25px;
   font-family: 'Playfair Display', serif;
-  color: #59C7FF;
+  color: #9BDAF2;
 }
 
 .button1 {

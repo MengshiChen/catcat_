@@ -1,6 +1,6 @@
 body{
 
-  background-image: url('../images/sunset2.jpg');
+  background-image: url('../images/photo.jpg');
 }
 .sunset{
   margin-top: 100px;
@@ -14,7 +14,7 @@ p{
 .ins{
   margin-top:50px;
   text-align: center;
-  color:#1A24FF;
+  color:#D95988;
 }
 .button{
   margin-left: 500px;

@@ -1,8 +1,9 @@
 @import url('https://fonts.googleapis.com/css?family=Architects+Daughter&display=swap');
 @import url('https://fonts.googleapis.com/css?family=Dancing+Script|Indie+Flower&display=swap');
+@import url('https://fonts.googleapis.com/css?family=PT+Serif|Playfair+Display&display=swap');
+
 body{
   background-image: url('../images/city4.jpg');
-  font-family: 'Architects Daughter', cursive;
 }
 /*videos*/
 .videosbigbox {
@@ -16,6 +17,7 @@ body{
 .wanderlust, .retrospect, .thehistoryofmine{
   font-size: 24px;
   color: #FFEC40;
+  font-family: 'Architects Daughter', cursive;
 
 }
 .title{
@@ -28,6 +30,7 @@ body{
 .description{
   color: #BAB7FF;
   font-size: 20px;
+  font-family: 'Playfair Display', serif;
 
 }
 
@@ -59,16 +62,16 @@ body{
 
 .secondgroup,.thirdgroup{
   margin: 50px;
-  font-size: 24px;
-  color: #52C4FF;
-  font-family: 'Indie Flower', cursive;
+  color: white;
+  font-family: 'Playfair Display', serif;
+  font-size: 20px;
 }
 
 .firstgroup {
   margin: 0px;
-  font-size: 24px;
-  color:#52C4FF;
-  font-family: 'Indie Flower', cursive;
+  color:white;
+  font-family: 'Playfair Display', serif;
+  font-size: 20px;
 
 
 }

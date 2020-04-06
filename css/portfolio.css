@@ -1,4 +1,6 @@
 @import url('https://fonts.googleapis.com/css?family=Dancing+Script|Indie+Flower&display=swap');
+@import url('https://fonts.googleapis.com/css?family=PT+Serif|Playfair+Display&display=swap');
+
 
 body{
 background-image: url('../images/mm.jpg');
@@ -49,10 +51,15 @@ h2{
 
 
 h3{
+  margin-top: : 80px;
+  margin-bottom: 50px;
+  margin-left: 100px;
+  margin-right: 100px;
   text-align: center;
   color: #52C4FF;
-  font-family: 'Indie Flower', cursive;
-  font-size: 24px;
+  font-family: 'Playfair Display', serif;
+  font-weight: bold;
+  font-size: 20px;
 }
 
 a{
